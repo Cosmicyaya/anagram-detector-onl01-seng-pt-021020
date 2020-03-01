@@ -3,5 +3,5 @@ class Anagram
     @anagram = anagram
   end
   
-  def match(words)
+  
     
