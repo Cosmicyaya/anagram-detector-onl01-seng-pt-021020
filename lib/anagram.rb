@@ -3,3 +3,4 @@ class Anagram
     @anagram = anagram
   end
   
+  
